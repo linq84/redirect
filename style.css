@@ -9,7 +9,7 @@ html, body {
 
 .bg-image {
   /* The image used for background */
-  /* you can use a url here if your want */
+  /* you can use a url here if you want */
   background-image: url("img/bg.jpg");
   
   /* Add the blur effect */
