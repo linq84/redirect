@@ -8,12 +8,14 @@ html, body {
 }
 
 .bg-image {
-  /* The image used */
+  /* The image used for background */
+  /* you can use a url here if your want */
   background-image: url("img/bg.jpg");
   
   /* Add the blur effect */
-  filter: blur(5px);
-  -webkit-filter: blur(5
+   /* Change the px properties here to blur the bg image */
+  filter: blur(1px);
+  -webkit-filter: blur(1
  px);
   
   /* Full height */
